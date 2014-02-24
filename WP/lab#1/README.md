@@ -31,7 +31,11 @@
   * [Geotechnical Software Services C++ Programming Style Guidelines](http://geosoft.no/development/cppstyle.html).
 I am going to make some more additional changes to this PSG as :
 
-**sda**
+##PSG
+
+I am going to make small changes into this PSG 
+
+#Comments
 ```
     //flag for checking .
     int font = 1;
