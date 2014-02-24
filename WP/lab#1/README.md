@@ -71,3 +71,12 @@ Position of curly braces after any statement ,class.
 ```  
 
 I still need a lot of getting used to in order to write everything accoring to the PSG
+
+
+#The Application Creation Steps
+
+For the development of this app I've read chapters from  Charlez Petzold's Windows Programming 5th edition.During the process of development I used MSDN and [Zetcode](http://www.zetcode.com/)
+##Conclusion
+
+This laboratory work was a reall challenge for me since  Win32 was new for me .
+_todo_
