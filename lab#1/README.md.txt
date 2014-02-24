@@ -1,2 +1,0 @@
- There were complications the most memorable of which was the inability to change the button color in a more "user friendly" manner
-the freezing windiow when i was resizing it , and the reason was a FONT which i create everytime WndProc was called. That was Pain in the ASSS
