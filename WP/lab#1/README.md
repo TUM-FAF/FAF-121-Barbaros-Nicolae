@@ -28,9 +28,10 @@
     - Write your own PSG (you can take existent one and modify it) and argue why it is better (for you) **(1 pt)**
 
 ## Theoretical Work:
- -**Programming language and PSG**
-  * C++
-  * [Geotechnical Software Services C++ Programming Style Guidelines](http://geosoft.no/development/cppstyle.html).
+  - **Programming language and PSG:**
+    - C++
+    - [Geotechnical Software Services C++ Programming Style Guidelines](http://geosoft.no/development/cppstyle.html)
+
 I am going to make some more additional changes to this PSG.
 
 ##PSG
