@@ -32,7 +32,6 @@
     - C++
     - [Geotechnical Software Services C++ Programming Style Guidelines](http://geosoft.no/development/cppstyle.html)
 
-I am going to make some more additional changes to this PSG.
 
 ##PSG
 
@@ -93,12 +92,14 @@ So, here is the output of my application
 6. Default Font button for switching to the default system font for message text from List Box
 7. Close button for clossing the application with a Custom Font created
 8. There is an resize handler and a restriction for width/height on resizing 
-9. There are 3 behaviours for Minimize/Maximize/Close button
+9. There are 3 behaviors for Minimize/Maximize/Close button
 10. Added 2 static text with created font and colors on a changed main window background color
 
 ##Conclusion
 
-This laboratory work was a real enjoyable challenge for me since  Win32 was new for me . Working with the messages and manipulating the parameters helped me to create a window and some child elements . Also this experience gave me an image of Windows API, and how it is structured, even if it didn't covered any advanced topics.
+This laboratory work was a real enjoyable challenge for me since  Win32 API was quite new for me (I used it when I created the window for my OpenGL applications but then Win32 was not reason for me to find out what every line of code is doing). Working with the messages and manipulating the parameters helped me to create a window and some child elements . Also this experience gave me an image of Windows API, and how it is structured, even if it didn't covered any advanced topics.
 
-I wanted to do something colorful and I think my goal was achived.
+The harder was and  still is for me to find how to change a button's background color .hence I will struggle more to find how to do it for lab#2 .
+
+As for result I wanted to be something colorful and I think my goal was achived.
 
