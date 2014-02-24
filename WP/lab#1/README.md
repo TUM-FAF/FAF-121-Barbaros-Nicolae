@@ -3,13 +3,13 @@
 
 # Topic: WIN32 API programming basics
 ## Intro
-### Purpose
-* Event-driven programming (message-oriented)
-* API
-* Windows applications development
+** Purpose**
+- Event-driven programming (message-oriented)
+- API
+- Windows applications development
 
-### Additional Purposes
- * Additional taks done for fun
+** Additional Purposes**
+-Additional taks done for fun
 
 ## Executed Tasks:
   - **Mandatory Tasks:**
