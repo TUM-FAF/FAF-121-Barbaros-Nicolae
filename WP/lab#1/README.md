@@ -29,3 +29,12 @@
  -**Programming language and PSG**
   * C++
   * [Geotechnical Software Services C++ Programming Style Guidelines](http://geosoft.no/development/cppstyle.html).
+I am going to make some more additional changes to this PSG as :
+
+```
+    //flag for checking .
+    int font = 1;
+
+    //  Declare Windows procedure
+    LRESULT CALLBACK WindowProcedure (HWND, UINT, WPARAM, LPARAM);
+```
