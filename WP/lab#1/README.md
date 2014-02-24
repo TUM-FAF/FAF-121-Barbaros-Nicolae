@@ -91,13 +91,14 @@ So, here is the output of my application
 4. Delete button for deleting message from the List Box
 5. Custom Font button for switching to a font created by me for message text from List Box
 6. Default Font button for switching to the default system font for message text from List Box
-7. Close button for clossing the application
+7. Close button for clossing the application with a Custom Font created
 8. There is an resize handler and a restriction for width/height on resizing 
 9. There are 3 behaviours for Minimize/Maximize/Close button
-10. Added 2 static text with created font and colors
+10. Added 2 static text with created font and colors on a changed main window background color
 
 ##Conclusion
 
-This laboratory work was a reall challenge for me since  Win32 was new for me .
-I wanted to do something colorful and i thing my goal was achived.
-_todo_
+This laboratory work was a real enjoyable challenge for me since  Win32 was new for me . Working with the messages and manipulating the parameters helped me to create a window and some child elements . Also this experience gave me an image of Windows API, and how it is structured, even if it didn't covered any advanced topics.
+
+I wanted to do something colorful and I think my goal was achived.
+
