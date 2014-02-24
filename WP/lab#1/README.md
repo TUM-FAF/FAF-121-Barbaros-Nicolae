@@ -78,7 +78,7 @@ I still need a lot of , to get used to it in order to write everything according
 
 For the development of this app I've read chapters from  Charlez Petzold's Windows Programming 5th edition.During the process of development I used MSDN and [Zetcode](http://www.zetcode.com/).
 
-As my working enviroment I used CodeBlocks and started my works as a win32 GUI frame program.
+As my working environment I used CodeBlocks and started my works as a win32 GUI frame program.
 
 So, here is the output of my application
 
@@ -101,5 +101,5 @@ This laboratory work was a real enjoyable challenge for me since  Win32 API was 
 
 The harder was and  still is for me to find how to change a button's background color .hence I will struggle more to find how to do it for lab#2 .
 
-As for result I wanted to be something colorful and I think my goal was achived.
+As for result I wanted to be something colorful and I think my goal was achieved.
 
