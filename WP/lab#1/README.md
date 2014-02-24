@@ -25,3 +25,7 @@
     * Change behavior of different window actions (at least 3). For ex.: on clicking close button, move window to a random location on display's working space **(1 pt)**
     * Write your own PSG (you can take existent one and modify it) and argue why it is better (for you) **(1 pt)**
  
+## Theoretical Work:
+ -**Programming language and PSG**
+  *C++
+  * [Geotechnical Software Services C++ Programming Style Guidelines](http://geosoft.no/development/cppstyle.html).
