@@ -29,7 +29,7 @@
  -**Programming language and PSG**
   * C++
   * [Geotechnical Software Services C++ Programming Style Guidelines](http://geosoft.no/development/cppstyle.html).
-I am going to make some more additional changes to this PSG as :
+I am going to make some more additional changes to this PSG.
 
 ##PSG
 
@@ -37,11 +37,36 @@ I am going to make small changes into this PSG
 
 **Comments**
 ```
-    //flag for checking .
+    //Flag for checking
     int font = 1;
 
-    //  Declare Windows procedure
+    //Declare Windows procedure
     LRESULT CALLBACK WindowProcedure (HWND, UINT, WPARAM, LPARAM);
 ```
 
-As you can see my comments are above the line of code , and between a line of code and a comments there is always a blank line left.
+As you can see , my line of comment is written above the line of code , and between a line of code and a line of comment there is always a blank line left.
+
+**Case Blocks**
+
+The case statement should have the following form:
+
+```
+   case do:
+      {
+      
+      }
+      
+    break;
+```
+
+**Curly Braces**
+
+Position of curly braces after any statement ,class.
+
+```
+   for (int i ; i < 0 ; i++ )
+    {
+  
+    }
+```  
+
