@@ -33,7 +33,7 @@ I am going to make some more additional changes to this PSG.
 
 ##PSG
 
-I am going to make small changes into this PSG 
+I am going to make small changes into PSG 
 
 **Comments**
 ```
@@ -44,7 +44,7 @@ I am going to make small changes into this PSG
     LRESULT CALLBACK WindowProcedure (HWND, UINT, WPARAM, LPARAM);
 ```
 
-As you can see , my line of comment is written above the line of code , and between a line of code and a line of comment there is always a blank line left.
+As you can see , my line of comment is written above the line of code , and between a line of code and a line of comment there is always a blank line left.A comment must start with an upper case.
 
 **Case Blocks**
 
