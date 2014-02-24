@@ -81,8 +81,19 @@ For the development of this app I've read chapters from  Charlez Petzold's Windo
 
 As my working enviroment I used CodeBlocks and started my works as a win32 GUI frame program.
 
-
+So, here is the output of my application
 ![Result](https://raw.github.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WP/lab%231/photo.png)
+
+1. Text Editor on the left for inputing the message
+2. List Box on the right for outputing the message
+3. Send button for sending message from Tex Editor to the List Box
+4. Delete button for deleting message from the List Box
+5. Custom Font button for switching to a font created by me for message text from List Box
+6. Default Font button for switching to the default system font for message text from List Box
+7. Close button for clossing the application
+8. There is an resize handler and a restriction for width/height on resizing 
+9. There are 3 behaviours for Minimize/Maximize/Close button
+10. Added 2 static text with created font and colors
 
 ##Conclusion
 
