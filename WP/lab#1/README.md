@@ -84,5 +84,5 @@ As my working enviroment I used CodeBlocks and started my works as a win32 GUI f
 ##Conclusion
 
 This laboratory work was a reall challenge for me since  Win32 was new for me .
-I wanted to do something colerfull and i thing my goal was achived.
+I wanted to do something colorful and i thing my goal was achived.
 _todo_
