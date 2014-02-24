@@ -82,6 +82,7 @@ For the development of this app I've read chapters from  Charlez Petzold's Windo
 As my working enviroment I used CodeBlocks and started my works as a win32 GUI frame program.
 
 So, here is the output of my application
+
 ![Result](https://raw.github.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WP/lab%231/photo.png)
 
 1. Text Editor on the left for inputing the message
