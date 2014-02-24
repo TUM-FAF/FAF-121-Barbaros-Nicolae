@@ -12,13 +12,13 @@
  * Additional taks done for fun
 
 ## Executed Tasks:
-  - **Mandatory Tasks:**
+    **Mandatory Tasks:**
     * Create a Windows application
     * Choose a _Programming Style Guideline_ that you'll follow
     * Add 2 buttons to window: one with default styles, one with custom styles (size, background, text color, font family, font size)
     * Add 2 text inputs to window: one with default styles, one with custom styles (size, background, text color, font family, font size)
     * Add 2 text elements to window: one with default styles, one with custom styles (size, background, text color, font family, font size)
-  - **Tasks With Points:**
+    **Tasks With Points:**
     * Make elements to fit window on resize **(1 pt)**
     _(hint: you can limit minimal window width and height)_
     * Make elements to interact or change other elements (1 pt for 2 different interactions) **(0-2 pt)** _(ex. on button click, change text element color or position)_
@@ -35,7 +35,7 @@ I am going to make some more additional changes to this PSG as :
 
 I am going to make small changes into this PSG 
 
-#Comments
+**Comments**
 ```
     //flag for checking .
     int font = 1;
@@ -43,3 +43,5 @@ I am going to make small changes into this PSG
     //  Declare Windows procedure
     LRESULT CALLBACK WindowProcedure (HWND, UINT, WPARAM, LPARAM);
 ```
+
+As you can see my comments are above the line of code , and between a line of code and a comments there is always a blank line left.
