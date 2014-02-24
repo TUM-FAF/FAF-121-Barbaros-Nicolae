@@ -1,5 +1,5 @@
 # Windows Programming
-###### student gr. FAF-111: Reazantev Gheorghe
+###### student gr. FAF-121: Barbaroș Nicolae
 
 # Topic: WIN32 API programming basics
 ## Intro
