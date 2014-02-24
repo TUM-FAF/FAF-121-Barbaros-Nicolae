@@ -27,5 +27,5 @@
  
 ## Theoretical Work:
  -**Programming language and PSG**
-  *C++
+  * C++
   * [Geotechnical Software Services C++ Programming Style Guidelines](http://geosoft.no/development/cppstyle.html).
