@@ -75,8 +75,15 @@ I still need a lot of getting used to in order to write everything accoring to t
 
 #The Application Creation Steps
 
-For the development of this app I've read chapters from  Charlez Petzold's Windows Programming 5th edition.During the process of development I used MSDN and [Zetcode](http://www.zetcode.com/)
+For the development of this app I've read chapters from  Charlez Petzold's Windows Programming 5th edition.During the process of development I used MSDN and [Zetcode](http://www.zetcode.com/).
+
+As my working enviroment I used CodeBlocks and started my works as a win32 GUI frame program.
+
+
+![Result](https://raw.github.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WP/lab%231/photo.png)
+
 ##Conclusion
 
 This laboratory work was a reall challenge for me since  Win32 was new for me .
+I wanted to do something colerfull and i thing my goal was achived.
 _todo_
