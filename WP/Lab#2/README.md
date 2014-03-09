@@ -53,7 +53,7 @@ Advanced Form Elements. Child Windows. Basics of Working with the Keyboard
  
  I really loved to work with resources, it gived me a much better control over design, which makes for a good level of customization in an application. For example, when I created "About Box" it was easier to give the coordinates and size of an icon and other elements from that Box, and on the other hand is very easy to change the default window icon and coursor icon.
  
- At the end i can say that it was a good challenge
+ In the end, I can say that it was a good challenge
  
 
 
