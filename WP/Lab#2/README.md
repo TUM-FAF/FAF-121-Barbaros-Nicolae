@@ -31,8 +31,8 @@ Advanced Form Elements. Child Windows. Basics of Working with the Keyboard
 
   - **Additional Tasks:**
     - Added a Drawing Area where you can draw lines.
-    - Added a meesage box showing what key were you pressing on the keyboard and also storing them into the list box.
-    - Added an event of mouse possition, when you double on client area you will get the mouse possition
+    - Added a message box showing what key were you pressing on the keyboard and also storing them into the list box.
+    - Added an event of mouse position, when you double on client area you will get the mouse position
 
 
 ## Screenshots
