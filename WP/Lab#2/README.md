@@ -46,12 +46,12 @@ Advanced Form Elements. Child Windows. Basics of Working with the Keyboard
   [How my Program works, Video](http://youtu.be/jhZ9bgDjznI)
 
 ## Development
- Although I experienced some issues working with scrollbars (even now they don't work properly, still have to work a lot on them), I managed to implement all the features I had planed (all mandatory, as well as additional tasks). This laboratory work was a lot more challenging than the last one, and by challenging I mean combinations of keyboards and scrollbars. 
+ Although I experienced some issues working with scrollbars (even now they don't work properly, still have to work a lot on them), I managed to implement all the features I had planned (all mandatory, as well as additional tasks). This laboratory work was a lot more challenging than the last one, and by challenging I mean combinations of keyboards and scrollbars. 
  
  It tooked me a while to figure out, how Windows sends the message of pressing a button to an element from my App. 
  Also, my scrollbars are a little bit messed up( the one that are responsible for resizing ), I think this is because my window is not updating as it should, since my scrollbar that is responsible for changing the color of an text is working fine.
  
- I really loved to work with resources, it gaved me a much better control over design, which makes for a good level of customization in an application. For example, when I created "About Box" it was easier to give the coordinates and size of an icon and other elements from that Box, and on the other hand is very easy to change the default window icon and coursor icon.
+ I really loved to work with resources, it gived me a much better control over design, which makes for a good level of customization in an application. For example, when I created "About Box" it was easier to give the coordinates and size of an icon and other elements from that Box, and on the other hand is very easy to change the default window icon and coursor icon.
  
  At the end i can say that it was a good challenge
  
