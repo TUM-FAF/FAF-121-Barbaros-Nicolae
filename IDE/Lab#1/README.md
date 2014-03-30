@@ -14,7 +14,7 @@ In order to do other tasks, I had to create my own server, for each I used the U
     ```
 
 
-#### Mandatory Tasks
+### Mandatory Tasks
    - **Connect to a remote server via SSH**
 
   I started my server and for connecting to it I will run the following commands in Git Bash
@@ -39,9 +39,19 @@ In order to do other tasks, I had to create my own server, for each I used the U
    git commit -m "text file with my name"
    ```
 
-#### Tasks with points:
+### Tasks with points
 
-   - **Create 2 more branches with at least one unique committed file per branch**
+#####Connect to server using public key.
+   
+To connect to the server first of all I have to create a public key by writing the following command
+
+`ssh-keygen -t rsa` 
+
+Next step is to authorize public key on the server by writing this command
+
+`cat ~/.ssh/id_rsa.pub | ssh user@ip "cat - >> ~/.ssh/authorized_keys"`
+
+- #####Create 2 more branches with at least one unique committed file per branch**
 
    Commands:
   ```sh
