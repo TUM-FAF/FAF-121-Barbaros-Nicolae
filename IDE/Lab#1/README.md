@@ -200,7 +200,7 @@ Solve Conflicts
 ```sh
 vim file.txt  
 choose what we want to have in the conflicting section and saveoru updated version
-git commit -a -m 'file.txt conflict resolved'
+git commit -a -m 'file.txt conflict solved'
 ```
 ![Picture](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/IDE/Lab%231/Conflict%20Resolved.png)
 #### Conclusion:
