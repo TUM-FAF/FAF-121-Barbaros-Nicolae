@@ -3,9 +3,10 @@
 ### Title: Command Line Interface. CLI Editor. Setting Server environment. Version Control Systems.
 
 ### Tasks with points:
-    In order to do other tasks, I had to create my own server, for each I used the Ubuntu VM (Virtual Machine).
 
-   -**Create your own server (ex. virtual machine)
+In order to do other tasks, I had to create my own server, for each I used the Ubuntu VM (Virtual Machine).
+
+   - #####Create your own server (ex. virtual machine)
 
     ```sh
     sudo apt-get install openssh-server     #Install an OpenSSH server
@@ -19,7 +20,8 @@
   I started my server and for connecting to it I will run the following commands in Git Bash
 
   ```sh
-  ssh username@ip# username, ip - VM ip 
+  ssh username@ip  #username, ip - VM ip 
+  ```
 
    - **Initialize a repository on server**
    
@@ -36,7 +38,7 @@
    git add text.txt              #add the file to folder
    git commit -m "text file with my name"
    ```
- git@github.com:NicoBarbaros/IDE-labs.git
+
 #### Tasks with points:
 
    - **Create 2 more branches with at least one unique committed file per branch**
@@ -57,7 +59,7 @@
   By switching to otherbranch branch I will see that both of my files will be displayed (master.txt and otherbranch.txt) while if I am switching to the master only the master.txt will be displayed.
 
   
-   - **Reset a branch to previous commit, reset a branch to some specific commit**
+- #####Reset a branch to previous commit, reset a branch to some specific commit**
 
      - Reset a branch to previous commit:
 
@@ -75,42 +77,63 @@
       git reset --hard ID
       ```
 
-  - **Make your CLI text editor to highlight code.
+- #####Make your CLI text editor to highlight code.
+   
     This one was really simple because  VIM has a built-in syntax highlighter, my job was to open google and to find the command
+    
     `:syntax on/off` 
+    
     And the result is this :
-    (ScreenShoot)
 
-  -**Create a VCS alias.
+![EditorHighLight](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/IDE/Lab%231/EditorHighLight.png)
+
+- #####Create a VCS alias.
+
   Aliases are very useful especially when we have long commands. Creating an alias we can do by writing the following command
 
-  `git config --global alias.nico 'branche newbranch'  # creating a global alias called nico
+  `git config --global alias.nico 'branche newbranch'  # creating a global alias called nico`
 
   How do this work? Simple, to create a new branch we must write 
+  
   `git branche newbranch'
 
   With the help of created alias, now, we can write 
-  `git nico` # which is similar to git branche newbranch
+  
+  `git nico # which is similar to git branche newbranch `
 
-   -**Create a VCS hook 
+- #####Create a VCS hook 
+
    _ToDo_
 
-   - **Master any CLI editor (VIM). Learn 10 commands' sets**
+- #####Master any CLI editor (VIM). Learn 10 commands' sets**
        
-       ** `o` - Begin a new line below the cursor and insert text
-       ** `all` - Begin a new line above the cursor and insert text
-       ** `ggguG` - lowercase all text
-       ** `?word` - search _word_ from bottom to top
-       ** `/word` - search _word_ from top to bottom
-       ** `:%s/$/word/g` - add _word_ at the end of each line
-       ** `:%s/word1/word2/g` - replace _word1_ by _word2_ in all the file
-       ** `:g/word/d`  - delete all lines containing _word_
-       ** `Ctrl+n ,Ctrl+p` - Auto-complete
-       ** `:Sex` - Split window and open integrated file explorer
-       ** `:args` - list files
-       ** `:ls` - list buffers
+    - `o` - Begin a new line below the cursor and insert text
 
-   - **Create a VCS merge conflict and solve it**
+    - `all` - Begin a new line above the cursor and insert text
+
+    - `ggguG` - lowercase all text
+
+    - `?word` - search word from bottom to top
+
+    - `/word` - search word from top to bottom
+
+    - `:%s/$/word/g` - add word at the end of each line
+
+    - `:%s/word1/word2/g` - replace word1  by word2 in all  the file
+
+    - `:g/word/d`  - delete all lines containing word
+
+    - `Ctrl+n ,Ctrl+p` - Auto-complete
+
+    - `:Sex` - Split window and open integrated file explorer
+
+    - `:args` - list files
+
+    - `:ls` - list buffers
+
+
+- #####Create a VCS merge conflict and solve it**
+   
    _ToDo_
 
      
