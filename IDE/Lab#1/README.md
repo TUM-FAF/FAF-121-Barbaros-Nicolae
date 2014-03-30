@@ -196,13 +196,13 @@ to mark the ending of the conflicting section from the master branch, and insert
 >>>>>>> test
 to mark the end of the conflicting section from the test branch.
 ```
-Resolve Conflicts
+Solve Conflicts
 ```sh
 vim file.txt  
 choose what we want to have in the conflicting section and saveoru updated version
 git commit -a -m 'file.txt conflict resolved'
 ```
-![Picture]()
+![Picture](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/IDE/Lab%231/Conflict%20Resolved.png)
 #### Conclusion:
  
  This laboratory work introduced me to a total new area of knowledge since all this was new for me .More than this, I am not a huge fun of console writing but with a little bit of hard working I managed to do more than 50 % of the tasks with points. Also this lab improved my skill for google searching.
