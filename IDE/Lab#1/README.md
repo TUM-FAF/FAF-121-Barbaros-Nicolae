@@ -144,9 +144,65 @@ Next step is to authorize public key on the server by writing this command
 
 - #####Create a VCS merge conflict and solve it**
    
-   _ToDo_
+ My conflict will consist of the same file in two branches, but with conflicting changes in the same location of the file.
 
-     
+```sh
+git checkout otherbranch   #switch to otherbranch branch
+vim file.txt       #open file in vim
+i                  #insert
+This line was inserted from the 'otherranch' branch   #text to be inserted
+:wq   #save, exit
+cat file.txt  #show content from file.txt
+git add file.txt 
+git commit -m 'file.txt changed in the otherbranch branch'
+```
+Here we start the conflict
+
+```sh
+git checkout test   #switch to test branch
+vim file.txt 
+i
+This line was inserted from the 'test' branch
+:wq
+cat file.txt
+git add file.txt
+git commit -m 'file.txt changed in the test branch
+
+git checkout otherbranch   #switched to branch 'otherbranch'
+git merge test    #Auto-merging file.txt 
+```
+Here comes the conflict message. Merge conflict in Readme. Automatic merge failed; fix conflicts and the commit the resutls
+
+```sh
+git status  # tells where are the conflicts
+
+git commit
+U   file.txt
+fatal: 'commit' is not possible because you have unmerged files.
+Please, fix them up in the work tree, and then use 'git add/rm ' as
+appropriate to mark resolution and make a commit, or use 'git commit -a'.
+
+```
+Let's investigate. Git is forcing us to resolve the conflicts
+```sh
+cat file.txt
+
+Git inserted:
+<<<<<<< HEAD
+to mark the beginning of the conflicting section from the master branch (where the HEAD reference is pointing).
+Git also inserted:
+=======
+to mark the ending of the conflicting section from the master branch, and inserted:
+>>>>>>> test
+to mark the end of the conflicting section from the test branch.
+```
+Resolve Conflicts
+```sh
+vim file.txt  
+choose what we want to have in the conflicting section and saveoru updated version
+git commit -a -m 'file.txt conflict resolved'
+```
+![Picture]()
 #### Conclusion:
  
  This laboratory work introduced me to a total new area of knowledge since all this was new for me .More than this, I am not a huge fun of console writing but with a little bit of hard working I managed to do more than 50 % of the tasks with points. Also this lab improved my skill for google searching.
