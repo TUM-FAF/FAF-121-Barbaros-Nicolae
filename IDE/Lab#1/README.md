@@ -105,15 +105,12 @@ Next step is to authorize public key on the server by writing this command
 
   How do this work? Simple, to create a new branch we must write 
   
-  `git branche newbranch'
+  `git branch newbranch`
 
   With the help of created alias, now, we can write 
   
   `git nico # which is similar to git branche newbranch `
 
-- #####Create a VCS hook 
-
-   _ToDo_
 
 - #####Master any CLI editor (VIM). Learn 10 commands' sets**
        
