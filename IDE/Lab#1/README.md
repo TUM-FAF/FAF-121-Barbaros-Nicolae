@@ -168,11 +168,10 @@ git commit -m 'file.txt changed in the test branch
 git checkout otherbranch   #switched to branch 'otherbranch'
 git merge test    #Auto-merging file.txt 
 ```
-Here comes the conflict message. Merge conflict in Readme. Automatic merge failed; fix conflicts and the commit the resutls
+Here comes the conflict message. Merge conflict in Readme. Automatic merge failed; fix conflicts and the commit the results.
 
 ```sh
 git status  # tells where are the conflicts
-
 git commit
 U   file.txt
 fatal: 'commit' is not possible because you have unmerged files.
@@ -183,7 +182,6 @@ appropriate to mark resolution and make a commit, or use 'git commit -a'.
 Let's investigate. Git is forcing us to resolve the conflicts
 ```sh
 cat file.txt
-
 Git inserted:
 <<<<<<< HEAD
 to mark the beginning of the conflicting section from the master branch (where the HEAD reference is pointing).
