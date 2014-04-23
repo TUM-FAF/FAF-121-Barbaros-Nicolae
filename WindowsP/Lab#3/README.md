@@ -53,7 +53,13 @@ Basic of Working with Mouse. GDI Primitives. Bezier Curve
 ## Development
  Fun Fun and again Fun. I am proud of myself :). I made my little paint. Look what I can do with it.
 
+<<<<<<< HEAD
  [Screenshot2](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WindowsP/Lab%233/Lab3/photos/art.jpg)
+=======
+
+![Screenshot2](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WindowsP/Lab%233/Lab3/photos/art.jpg)
+ 
+>>>>>>> ceeb37c28fcb287bee508bda2e64a9ceb60abd13
  
  It tooked me a while to finnish this laboratory but at least I made almost everything by myself. Looking forward to new challenges.
  
