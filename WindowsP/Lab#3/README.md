@@ -28,14 +28,14 @@ Basic of Working with Mouse. GDI Primitives. Bezier Curve
   - **Tasks With Points:**
     - Draw a custom bitmap (1pt)
     - Add a switch(button, select list...) that will change mouse ability to draw objects(2 pt)
-    - Draw a ezier curv using mouse (1pt)
+    - Draw a bezier curv using mouse (1pt)
     - Fill an object with a gradient (1pt)
     - Use mouse as an eraser of:
       - a fixed width (1pt)
       - a adjustable width (2pt)
 
   - **Additional Tasks:**
-    - Added an Toolbar similar to PhotoShop with an Bitmap :).
+    - Added a Toolbar similar to PhotoShop with a Bitmap :).
     - Added 2 scrollbars 1 for color and 1 for gradient.
     - Added 1 button for clearing the drawing area.
 
@@ -57,7 +57,7 @@ Basic of Working with Mouse. GDI Primitives. Bezier Curve
  ![Screenshot2](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WindowsP/Lab%233/Lab3/photos/art.jpg)
  
  
- It tooked me a while to finnish this laboratory but at least I made almost everything by myself. Looking forward to new challenges.
+ It took me a while to finish this laboratory but at least I made almost everything by myself. Looking forward to new challenges.
  
  
 
