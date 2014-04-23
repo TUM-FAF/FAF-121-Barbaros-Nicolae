@@ -17,7 +17,6 @@ AboutDialog::~AboutDialog()
 int AboutDialog::Run(HINSTANCE hInstance, HWND hParent)
 {
    int retval = DialogBox(hInstance, MAKEINTRESOURCE(IDD_ABOUT), hParent, DialogProc);
-	
    return retval;
 }
  
@@ -29,19 +28,19 @@ BOOL CALLBACK AboutDialog::DialogProc (HWND hwnd, UINT msg, WPARAM wParam, LPARA
     int retVal = false;
     switch(msg)
     {
-		case WM_INITDIALOG:
-			retVal = true;
-		break;
+	case WM_INITDIALOG:
+		retVal = true;
+	break;
 
-		case WM_COMMAND:
+	case WM_COMMAND:
 			
-			if(LOWORD(wParam) == IDOK)
-				EndDialog(hwnd, TRUE);
-		break;
-		
-		case WM_CLOSE:
+		if(LOWORD(wParam) == IDOK)
 			EndDialog(hwnd, TRUE);
-		break;
+	break;
+		
+	case WM_CLOSE:
+		EndDialog(hwnd, TRUE);
+	break;
     }
    return retVal;
 }

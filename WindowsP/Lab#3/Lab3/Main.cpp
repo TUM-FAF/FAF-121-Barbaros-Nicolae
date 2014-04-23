@@ -20,7 +20,6 @@ HINSTANCE MainWindow::m_hInstance = 0;
 
 int WINAPI WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR lpCmdLine, int nCmdShow)
 {
-
     MSG msg;
     MainWindow *winMain = new MainWindow(hInst);
     if(!winMain->Run(nCmdShow))
@@ -38,8 +37,6 @@ int WINAPI WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR lpCmdLine, int nCmdSh
         // Send message to WindowProcedure
         DispatchMessage(&msg);
     }
- 
     delete winMain;
- 
     return msg.wParam;
 }

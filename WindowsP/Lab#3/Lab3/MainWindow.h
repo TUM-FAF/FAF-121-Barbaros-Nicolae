@@ -3,6 +3,7 @@
 class MainWindow
 {
 	public:
+
 		MainWindow(HINSTANCE hInstance);
 		~MainWindow();
 		MainWindow();
@@ -11,15 +12,16 @@ class MainWindow
 		bool Run(int nCmdShow);
 		void Create(HINSTANCE Hinst , HWND hwnd, LPARAM lParam, HBITMAP logo);
 		operator HWND();
+		HWND CreateStandardToolbar(HWND hParent, HINSTANCE hInst);
+		void ChangeCurrentCursor(HWND hWnd, LPCTSTR cursor);
+		void ChangeCurrentColor(HDC d, HPEN strokePens, COLORREF color, int width);
+		void DeleteObjectHPEN(HPEN pen);
+	
+	public:
 
-
-	HWND CreateStandardToolbar(HWND hParent, HINSTANCE hInst);
-	HWND hWndToolbar;
-	void ChangeCurrentCursor(HWND hWnd, LPCTSTR cursor);
-	void ChangeCurrentColor(HDC d, HPEN strokePens, COLORREF color, int width);
-	void DeleteObjectHPEN(HPEN pen);
-
+		HWND hWndToolbar;
 	private:
+
 		WNDCLASSEX m_wndClass;
 		static HINSTANCE m_hInstance;
 		HWND m_hwnd;
