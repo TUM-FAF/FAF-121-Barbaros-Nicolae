@@ -1,6 +1,6 @@
 # Windows Programming
 ###### student gr. FAF-121: Barbaroș Nicolae
-# WP Laboratory Work #2
+# WP Laboratory Work #3
 
 ## Title
 
