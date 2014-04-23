@@ -44,7 +44,7 @@ Basic of Working with Mouse. GDI Primitives. Bezier Curve
 
 1. The application on startup.
 
-    ![Screenshot1](https://raw.github.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WP/Lab%232/pics/Screenshot_1.png)
+    ![Screenshot1](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WindowsP/Lab%233/Lab3/photos/Screenshot_4.png)
 
 2. A short video about my app
   
@@ -52,13 +52,11 @@ Basic of Working with Mouse. GDI Primitives. Bezier Curve
 
 ## Development
  Fun Fun and again Fun. I am proud of myself :). I made my little paint. Look what I can do with it.
+
+ 	![Screenshot2](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WindowsP/Lab%233/Lab3/photos/art.jpg)
  
- It tooked me a while to figure out, how Windows sends the message of pressing a button to an element from my App. 
- Also, my scrollbars are a little bit messed up( the one that are responsible for resizing ), I think this is because my window is not updating as it should, since my scrollbar that is responsible for changing the color of an text is working fine.
+ It tooked me a while to finnish this laboratory but at least I made almost everything by myself. Looking forward to new challenges.
  
- I really loved to work with resources, it gived me a much better control over design, which makes for a good level of customization in an application. For example, when I created "About Box" it was easier to give the coordinates and size of an icon and other elements from that Box, and on the other hand is very easy to change the default window icon and coursor icon.
- 
- In the end, I can say that it was a good challenge
  
 
 
