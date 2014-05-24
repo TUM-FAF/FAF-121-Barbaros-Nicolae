@@ -18,7 +18,7 @@ Windows Timer. Animation.
     - Increase and decrease animation speed using mouse wheel (2pt)
     - Solve flicking problem (2pt)
     - Add animated objects which interact with each other (2 - 6pt)
-    - Animate a Nyan Cat that leves a rainbow tail 
+    - Animate a Nyan Cat that leaves a rainbow tail 
 
   - **Additional Tasks:**
     - Fun, effects and music.
@@ -40,7 +40,7 @@ Windows Timer. Animation.
  
  The flickering was solved using double buffering and avoiding the call to erase background 
 
-In special I had fun with NyanCat, I can control it's possition with keys and in the end it leaves a rainbow tail :))
+In special I had fun with NyanCat, I can control it's position with keys and in the end it leaves a rainbow tail :))
 
  ![Screenshot1](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WindowsP/Lab%234/NyanCaat.bmp)
 
