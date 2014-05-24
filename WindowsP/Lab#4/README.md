@@ -21,7 +21,7 @@ Windows Timer. Animation.
     - Animate a Nyan Cat that leves a rainbow tail 
 
   - **Additional Tasks:**
-    - Fun effects and music.
+    - Fun, effects and music.
     - Control Nyan Cat by key's
 
 
@@ -29,7 +29,7 @@ Windows Timer. Animation.
 
 1. The application on startup.
 
-    ![Screenshot1]()
+    ![Screenshot1](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WindowsP/Lab%234/Start.png)
 
 2. A short video about my app
   
