@@ -231,6 +231,8 @@ LRESULT CALLBACK WindowProcedure (HWND hwnd, UINT message, WPARAM wParam, LPARAM
                 objects[i]->Move(hdcMem,rect,hBrush);
             }
             //Switches the loaded memory buffer with the display context
+
+
             BitBlt(hdc,0,0,rect.right,rect.bottom,hdcMem,0,0,SRCPAINT);
             EndPaint(hwnd,&ps);
             break;
@@ -289,8 +291,6 @@ LRESULT CALLBACK WindowProcedure (HWND hwnd, UINT message, WPARAM wParam, LPARAM
             //Invalidates rect area without calling the erase background message
             InvalidateRect(hwnd,NULL,FALSE);
             break;
-
-
 
         case WM_DESTROY:
             //Destroy the double buffer memory and handle
