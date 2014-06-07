@@ -28,7 +28,7 @@ GUI Development
 
   - **Additional Tasks:**
     - Fun effects and music.(1pt)
-    - Creating a local Data Base (2pt)
+    - Creating a local Data Base (working with tables) (2pt)
     - Switching from one form to another(1pt)
     - Good looking app (1pt)
 
@@ -45,7 +45,15 @@ GUI Development
 
 ## Development
  
+I realy strugledWell until now I thought that windows forms sucks, but after doing this lab my thought has changed from sucks to GOLD!! . Windows forms gives us the possibility to build an app in just no moments. Drag link, drag link, write some code and Baaam, you have a program.
 
+In this lab I tried to add as much as fun as I could. I really enjoyed doing it.
+
+Building my own local Data Base (SQL), switching from one form to another, having fun with animations, in one word AWESOME!!
+
+I hope you will give me some points for Additional Tasks (Don’t you?)
+
+this.lab.goal.Accomplisment  == true ;
 
 
 
