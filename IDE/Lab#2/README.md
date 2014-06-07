@@ -43,6 +43,18 @@ GUI Development
   
   [How my Program works, Video](https://www.youtube.com/watch?v=oFf6w1Hj_OE&feature=youtu.be)
 
+3.Creating of Data Base
+
+As you can see from video, you have to loggin, and this requires some data. With visual studio is easy to create a DB.
+
+      - Create a DB
+      - Create Tables
+      - Write your info in fields
+
+ ![Screenshot2](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/IDE/Lab%232/LOGINApp/DataBase.png)
+
+ ![Screenshot3](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/IDE/Lab%232/LOGINApp/DataBaseTable.png)
+
 ## Development
  
 I realy strugledWell until now I thought that windows forms sucks, but after doing this lab my thought has changed from sucks to GOLD!! . Windows forms gives us the possibility to build an app in just no moments. Drag link, drag link, write some code and Baaam, you have a program.
