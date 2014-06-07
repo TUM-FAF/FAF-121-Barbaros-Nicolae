@@ -6,7 +6,6 @@
 **Student:** Barbaroș Nicolae
 
 **Group:** FAF-121
-<<<<<<< HEAD
  
 
 ## Contained courses
