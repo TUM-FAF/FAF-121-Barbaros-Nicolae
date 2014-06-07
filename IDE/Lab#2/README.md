@@ -25,7 +25,6 @@ GUI Development
     - Create a Reset button. On clicking this button all controls should go to their default state (1pt)
     - Set a breakpoint in your application and check variables values at that moment of time (1pt)
     - Set debug watches that will not stop your application from running but will allow you to check any application's state(ex. if a function was called) (1pt)
-    -
 
   - **Additional Tasks:**
     - Fun effects and music.(1pt)
@@ -38,7 +37,7 @@ GUI Development
 
 1. The application on startup.
 
-    ![Screenshot1]()
+    ![Screenshot1](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/IDE/Lab%232/LOGINApp/onStart.png)
 
 2. A short video about my app
   
@@ -47,7 +46,7 @@ GUI Development
 ## Development
  
 
- ![Screenshot1](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WindowsP/Lab%234/NyanCaat.bmp)
+
 
 
 
