@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1400880616 source:c:\users\nicolea\desktop\lab4\main.cpp
+	"objects.h"
+
+1400877214 source:c:\users\nicolea\desktop\lab4\objects.cpp
+	"objects.h"
+
+1400876618 c:\users\nicolea\desktop\lab4\objects.h
+	<iostream>
+	<windows.h>
+	<cmath>
+	<mmsystem.h>
+	<time.h>
+
+1400944416 source:d:\university\anul2\sem2\wp\wp\windowsp\lab#4\main.cpp
+	"objects.h"
+
+1400876618 d:\university\anul2\sem2\wp\wp\windowsp\lab#4\objects.h
+	<iostream>
+	<windows.h>
+	<cmath>
+	<mmsystem.h>
+	<time.h>
+
+1400877214 source:d:\university\anul2\sem2\wp\wp\windowsp\lab#4\objects.cpp
+	"objects.h"
+
