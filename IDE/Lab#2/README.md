@@ -45,7 +45,7 @@ GUI Development
 
 3. Creation of Data Base
 
-As you can see from video, you have to loggin, and this requires some data. With visual studio is easy to create a DB.
+As you can see from video, you have to login, and this requires some data. With visual studio is easy to create a DB.
 
       - Create a DB
       - Create Tables
@@ -57,7 +57,7 @@ As you can see from video, you have to loggin, and this requires some data. With
 
 ## Development
  
-I realy strugledWell until now I thought that windows forms sucks, but after doing this lab my thought has changed from sucks to GOLD!! . Windows forms gives us the possibility to build an app in just no moments. Drag link, drag link, write some code and Baaam, you have a program.
+I really struggled Well until now I thought that windows forms sucks, but after doing this lab my thought has changed from sucks to GOLD!! . Windows forms gives us the possibility to build an app in just no moments. Drag link, drag link, write some code and Baaam, you have a program.
 
 In this lab I tried to add as much as fun as I could. I really enjoyed doing it.
 
