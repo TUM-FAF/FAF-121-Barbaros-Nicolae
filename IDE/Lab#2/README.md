@@ -43,7 +43,7 @@ GUI Development
   
   [How my Program works, Video](https://www.youtube.com/watch?v=oFf6w1Hj_OE&feature=youtu.be)
 
-3.Creating of Data Base
+3. Creation of Data Base
 
 As you can see from video, you have to loggin, and this requires some data. With visual studio is easy to create a DB.
 
