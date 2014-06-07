@@ -29,7 +29,7 @@ Windows Timer. Animation.
 
 1. The application on startup.
 
-    ![Screenshot1]()
+    ![Screenshot1](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WP/Lab%234/Start.png)
 
 2. A short video about my app
   
@@ -42,7 +42,7 @@ Windows Timer. Animation.
 
 In special I had fun with NyanCat, I can control it's possition with keys and in the end it leaves a rainbow tail :))
 
- ![Screenshot1](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WindowsP/Lab%234/NyanCaat.bmp)
+ ![Screenshot1](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WP/Lab%234/NyanCaat.bmp)
 
 
 
