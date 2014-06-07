@@ -68,8 +68,7 @@ I hope you will give me some points for Additional Tasks (Don’t you?)
 this.lab.goal.Accomplishment  == true ;
 
 
-
-
+![Screenshot4](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/IDE/Lab%232/LOGINApp/inApp.png)
 
 
 
