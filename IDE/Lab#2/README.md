@@ -65,7 +65,7 @@ Building my own local Data Base (SQL), switching from one form to another, havin
 
 I hope you will give me some points for Additional Tasks (Don’t you?)
 
-this.lab.goal.Accomplisment  == true ;
+this.lab.goal.Accomplishment  == true ;
 
 
 
