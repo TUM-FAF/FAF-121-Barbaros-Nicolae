@@ -41,6 +41,7 @@ public class MainActivity extends ActionBarActivity {
         phoneTxt = (EditText) findViewById(R.id.txtPhone);
         emailTxt = (EditText) findViewById(R.id.txtEmail);
         addressTxt = (EditText) findViewById(R.id.txtAddress);
+        contactListView = (ListView) findViewById(R.id.listView);
         TabHost tabHost = (TabHost) findViewById(R.id.tabHost);
 
         tabHost.setup();
@@ -151,6 +152,7 @@ public class MainActivity extends ActionBarActivity {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
+        Toast.makeText(getApplicationContext(), "Made by Barbaros Nicolae ", Toast.LENGTH_SHORT).show();
         if (id == R.id.action_settings) {
             return true;
         }

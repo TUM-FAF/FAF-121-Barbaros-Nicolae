@@ -2,32 +2,37 @@
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="#ffffff">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="Contact Name"
-        android:id="@+id/contactName" />
+        android:id="@+id/contactName"
+        android:textColor="#ff0003" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Phone"
         android:id="@+id/phoneNumber"
-        android:layout_marginTop="15dp" />
+        android:layout_marginTop="15dp"
+        android:textColor="#00aaff" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Email"
-        android:id="@+id/emailAddress" />
+        android:id="@+id/emailAddress"
+        android:textColor="#00aaff" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Address"
-        android:id="@+id/cAddress" />
+        android:id="@+id/cAddress"
+        android:textColor="#00aaff" />
 
 </LinearLayout>
