@@ -25,7 +25,7 @@
 #
 ## Screenshots
 
-1. The application in Emulator.
+1. Inside the emulator.
 
     ![Screenshot1](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/IDE/Lab%233/inEmulator.png)
     
@@ -40,7 +40,8 @@
  
 Well this lab gave me an introduction to Android Studio and Java language (even though I worked a little bit with java in the past it was a pleasure to come back to it).
 
-As I said in the video, even if this app is not saving contacts for a long time (until you relaunch it) sometimes when you need to save something and you don’t have anything else than this app, than this app is a life saver
+As I said in the video, even if this app is not saving contacts for a long time (until you relaunch it) sometimes when you need to save something and you don’t have anything else than this app, than it is a life saver.
+
 
 ![Screenshot3](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/IDE/Lab%233/myName.png)
 
