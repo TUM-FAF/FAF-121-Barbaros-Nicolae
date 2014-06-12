@@ -25,11 +25,11 @@ It's a simple app with4 buttons.
 First button is for debugging types, so we have 3 types of debug Log, Error, Warn 
 It will show the type of debugging by condition, so if we comment 2 out of 3 defines and let only the level_Log our event will take this condition
 
-[System.Diagnostics.Conditional("DEBUG_LEVEL_LOG")]	
-
+            [System.Diagnostics.Conditional("DEBUG_LEVEL_LOG")]	
+ 
 ...and the output will be 
 
-"This is a log with formatting: 12.1"
+            "This is a log with formatting: 12.1"
 
 
 The next 3 buttons are for tests.
