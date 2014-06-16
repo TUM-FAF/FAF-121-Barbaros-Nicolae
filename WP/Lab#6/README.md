@@ -28,7 +28,7 @@ Developing using C#. WinRT
 
 2. How it works ?
 
-    Simple, Delete the text "Delete before pressing microphone", Enter some random text, simbols, press the microphone and listen carefully 
+    Simple, Delete the text "Delete before pressing microphone",Enter some random text, symbols, press the microphone and listen carefully 
     
     ![Screenshot2](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WP/Lab%236/InMetro.png)
 
