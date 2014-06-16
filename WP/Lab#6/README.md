@@ -24,14 +24,20 @@ Developing using C#. WinRT
 
 1. The application on startup.
 
-    ![Screenshot1]()
+    ![Screenshot1](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WP/Lab%236/StartUp.png)
 
+2. How it works ?
 
+    Simple, Delete the text "Delete before pressing microphone", Enter some random text, simbols, press the microphone and listen carefully 
+    
+    ![Screenshot2](https://raw.githubusercontent.com/TUM-FAF/FAF-121-Barbaros-Nicolae/master/WP/Lab%236/InMetro.png)
 
 ## Development
 I am really amazed about WinRT API, it was really easy to build a text-to-speech Metro style app. 
 
 Peace 
+
+It's not all about code, it's all about pleasure ))).
 
 
 
