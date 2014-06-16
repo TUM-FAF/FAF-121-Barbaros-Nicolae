@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NICOLAPC</Machine>
+    <WindowsUser>Nico</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>cd2e9e29-962a-4b71-b774-a63283b8e2ad</PackageIdentityName>
+    <IntermediateOutputPath>D:\University\Anul2\Sem2\WP\Lab6\App1\App1\App1.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>781AB32014BB2D308DE39585F055ABEDB99C74C2833C4F0A11DB0946C1137400</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cd2e9e29-962a-4b71-b774-a63283b8e2ad_1.0.0.0_neutral__ztbnkfeqf8y0t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cd2e9e29-962a-4b71-b774-a63283b8e2ad_ztbnkfeqf8y0t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cd2e9e29-962a-4b71-b774-a63283b8e2ad</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Nico</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\University\Anul2\Sem2\WP\Lab6\App1\App1\App1.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-16T18:30:58.114</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\University\Anul2\Sem2\WP\Lab6\App1\App1\App1.Windows\bin\Debug\App1.Windows.exe">
+      <PackagePath>App1.Windows.exe</PackagePath>
+      <Modified>2014-06-16T19:19:53.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\University\Anul2\Sem2\WP\Lab6\App1\App1\App1.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T18:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\University\Anul2\Sem2\WP\Lab6\App1\App1\App1.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T18:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\University\Anul2\Sem2\WP\Lab6\App1\App1\App1.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T18:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\University\Anul2\Sem2\WP\Lab6\App1\App1\App1.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T18:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\University\Anul2\Sem2\WP\Lab6\App1\App1\App1.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-16T18:30:57.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\University\Anul2\Sem2\WP\Lab6\App1\App1\App1.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-06-16T19:19:53.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\University\Anul2\Sem2\WP\Lab6\App1\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml">
+      <PackagePath>App1.Windows.xr.xml</PackagePath>
+      <Modified>2014-06-16T19:18:49.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\University\Anul2\Sem2\WP\Lab6\App1\App1\App1.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-16T18:30:57.872</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

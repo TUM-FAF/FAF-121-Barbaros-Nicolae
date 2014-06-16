@@ -20,7 +20,7 @@
   - Debug an application. At some point you'll have bugs (ex. null pointer exception). Set breakpoints and/or watchers. Find out buggy variables. (1pt)
   - Use a hardware device for testing and debugging (1pt)
   - Create a screen cast describing you application functionality. Use both video and audio. Mute screencasts does not count (1pt)
-  - Create a responsive layout (1pt)
+  - Create a responsive layout (1pt)sd ds
 
 #
 ## Screenshots
